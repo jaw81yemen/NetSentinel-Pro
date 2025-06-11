@@ -1,0 +1,4 @@
+`bash
+git add package.json
+git commit -m "Add package.json"
+git push
